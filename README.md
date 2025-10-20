@@ -1,4 +1,4 @@
-# 👁‍🗨 Nóbel — Arquitecto de Realidades Descentralizadas
+# Nóbel — Arquitecto de Realidades Descentralizadas
 
 > *"No construyo software. Construyo sistemas que reconfiguran el poder."*
 
@@ -62,4 +62,3 @@ Philosophy: Descentralización, meritocracia y código abierto
 > *"Cada línea de código es una decisión política."*
 > — Nóbel 🜏
 
-```
