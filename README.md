@@ -2,17 +2,20 @@
 
 > *"No construyo software. Construyo sistemas que reconfiguran el poder."*
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nobelaar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nobelaar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
+<br>
 
 Trabajo en la intersección entre **blockchain, ciberseguridad y filosofía**, creando infraestructuras digitales que devuelven el control a las personas.  
 No me interesa “la tecnología” como moda, sino **como herramienta de emancipación**.
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nobelaar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=nobelaar&theme=tokyonight&hide_border=false)<br/>
+
+
+###
+
 
 ---
 
@@ -25,6 +28,10 @@ No me interesa “la tecnología” como moda, sino **como herramienta de emanci
   Buscamos construir una experiencia financiera real, simple y libre.
 
 - 🧠 **PLT Labs** — mi laboratorio de I+D donde mezclo teoría, código y filosofía para explorar la próxima frontera del software soberano.
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nobelaar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
